@@ -14,9 +14,9 @@ export async function postController(req, res)  {
         // Respond with the structured data
         res.status(200).json({
             is_success: true,
-            user_id: "john_doe_17091999",
-            email: "john@xyz.com",
-            roll_number: "ABCD123",
+            user_id: "Akhil Donhula",
+            email: "akhil.donthula2021@vitstudent.ac.in",
+            roll_number: "21BEC0445",
             numbers,
             alphabets,
             highest_lowercase_alphabet: highestLowercaseAlphabet
